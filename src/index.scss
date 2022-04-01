@@ -1,0 +1,14 @@
+// Configure 
+// https://www.cirrus-ui.com/getting-started/configuration
+@use "cirrus-ui/src/cirrus-ext" as * with (
+    $config: (
+        extend: (
+        )
+    ),
+);
+
+// Other Styles
+body {
+    background: url('https://raw.githubusercontent.com/Spiderpig86/Cirrus/gh-pages/cirrus-docs-next/static/img/gradient.jpg') no-repeat 50%;
+    background-attachment: fixed;
+}
