@@ -14,12 +14,15 @@ module.exports = {
         path: path.resolve(__dirname, process.env.NODE_ENV === 'production' ? PROD_BUILD_DIR : DEV_BUILD_DIR),
         filename: 'bundle.js',
     },
+    target: 'web',
     devServer: {
         static: {
             directory: path.join(__dirname, DEV_BUILD_DIR),
         },
         compress: true,
+        liveReload: true,
         port: 9000,
+        watchFiles: ['src/**/*'],
     },
     module: {
         rules: [

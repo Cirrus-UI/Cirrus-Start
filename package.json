@@ -7,7 +7,7 @@
         "build": "webpack",
         "watch": "webpack --watch",
         "serve": "webpack serve",
-        "serve:hot": "npm run serve --hot",
+        "serve:hot": "webpack serve --hot --open --config webpack.config.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
