@@ -32,7 +32,6 @@ module.exports = {
         rules: [
             {
                 test: /\.scss$/,
-                // use: ['style-loader', 'css-loader', 'sass-loader'],
                 use: [
                     MiniCssExtractPlugin.loader,
                     {
@@ -61,7 +60,7 @@ module.exports = {
         new webpack.ProgressPlugin(),
         new CleanWebpackPlugin(),
         new MiniCssExtractPlugin({
-            filename: '[name]-[contenthash].css',
+            filename: '[name].css',
         }),
         new HTMLWebpackPlugin({
             filename: 'index.html',
