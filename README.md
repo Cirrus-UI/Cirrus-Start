@@ -2,6 +2,8 @@
 
 **The fastest way to get your idea up and running with [Cirrus](https://github.com/Cirrus-UI/Cirrus-Start).**
 
+![Demo of Cirrus Start](https://github.com/Cirrus-UI/Cirrus-Start/raw/main/gifs/combined.gif)
+
 ## ✨ Features
 
 - 💎 Direct integration with [Cirrus](https://github.com/Cirrus-UI/Cirrus-Start) using **Sass** configuration. This allows you to customize what features you want in Cirrus and which classes to add/remove during project generation.
