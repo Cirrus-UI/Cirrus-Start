@@ -1,8 +1,9 @@
-# ⚡ cirrus-start
-
-**The fastest way to get your idea up and running with [Cirrus](https://github.com/Cirrus-UI/Cirrus-Start).**
+<p align="center"><img src="https://raw.githubusercontent.com/Cirrus-UI/Cirrus-Start/master/img/logo.png" width="200"></p>
+<h1 align="center">⚡ cirrus-start</h1>
 
 ![Demo of Cirrus Start](https://github.com/Cirrus-UI/Cirrus-Start/raw/main/gifs/combined.gif)
+
+**The fastest way to get your idea up and running with [Cirrus](https://github.com/Cirrus-UI/Cirrus-Start).**
 
 ## ✨ Features
 
