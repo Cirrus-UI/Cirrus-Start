@@ -3,11 +3,11 @@
 
 ![Demo of Cirrus Start](https://github.com/Cirrus-UI/Cirrus-Start/raw/main/gifs/combined.gif)
 
-**The fastest way to get your idea up and running with [Cirrus](https://github.com/Cirrus-UI/Cirrus-Start).**
+**The fastest way to get your idea up and running with [Cirrus](https://github.com/Spiderpig86/Cirrus).**
 
 ## ✨ Features
 
-- 💎 Direct integration with [Cirrus](https://github.com/Cirrus-UI/Cirrus-Start) using **Sass** configuration. This allows you to customize what features you want in Cirrus and which classes to add/remove during project generation.
+- 💎 Direct integration with [Cirrus](https://github.com/Spiderpig86/Cirrus) using **Sass** configuration. This allows you to customize what features you want in Cirrus and which classes to add/remove during project generation.
 - ⚙️ Bundled with **Webpack** to bundle all your assets in a fast and configurable manner. This includes a few standard Webpack plugins and a live reload server for fast iteration.
 - ⚗️ **PurgeCSS** included by default to minimize build sizes and remove all Cirrus classes that are not used for builds.
 - ⚡ Deploy and tear down your project with ease with **Surge.sh**.
