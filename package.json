@@ -29,7 +29,7 @@
         "not IE 11"
     ],
     "dependencies": {
-        "cirrus-ui": "^0.7.0-patch.1",
+        "cirrus-ui": "^0.7.2-patch.1",
         "sass": "^1.49.10"
     },
     "devDependencies": {
